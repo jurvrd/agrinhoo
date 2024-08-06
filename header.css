@@ -1,1 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap')
 
+.cabecalho{
+    background-color:aliceblue;
+    display: flex;
+    align-items: center;
+ 
+}
+
+.container{
+    position: relative;
+}
+.container-titulo{
+    font-size: 80px;
+    color: aliceblue;
+    position:absolute;
+    top: 15px;
+    font-family: "Irish Grover", system-ui;
+
+}
+.container--dois{
+padding: 20px;
+margin-bottom: 25px;
+font-family: "Krona One", sans-serif;
+
+}
+
+
+.container--tres{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-family: 'Krona One';
+    background-color: antiquewhite;
+}
+
+
+.container--botao{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-family: 'Krona One';
+    background-color: antiquewhite;
+
+}
+
+.container--cinco{
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    font-family: 'Krona One';
+    background-color: white;
+
+}
+.container--cinco{
+    background-color:#C58356;
+    display:flex;  
+    flex-direction: column;  
+    justify-content: flex-start; 
+    }
+.container--card{
+    font-size:30px ;
+}
