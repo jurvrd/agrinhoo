@@ -1,1 +1,65 @@
+.container {
+    background-image: url("../img[]/vista-da-xicara-de-cafe-com-espaco-para-texto\ 1.png");
+    height: 1400px;
+    background-repeat: no-repeat;
+    background-size: cover;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container--img{
+   width:70%;
+   height:50%;
+   font-family: "Istok Web", sans-serif;
+   font-weight: 400;
+   font-size: 50%;
+    
+}
 
+    
+    
+.container--tres--img{
+    width:700px;
+    
+}
+
+.container--quatro{
+    background-color: aliceblue;
+    font-family: "Krona One", sans-serif;
+
+
+
+}
+.container--quatro-titulo{
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+
+.container--quatro--descricao{
+    margin: 100px;
+    font-size: 14px;
+    text-align: justify;
+
+}
+.container--quatro--img{
+    width: 700px;
+    height: 600px;
+    height: 700px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.container--card{
+    width: 471px;
+    height: 355px;
+    background-color: #D9D9D9;
+    border-radius:40px;
+}
+.container--card dois {
+    width: 471px;
+    height: 355px;
+    background-color: #D9D9D9;
+    border-radius:40px;
+}
