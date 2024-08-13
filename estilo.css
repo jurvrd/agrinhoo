@@ -1,38 +1,36 @@
-@import url("https://fonts.googleapis.com/css2?family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&family=Krona+One&display=swap");
-@import url("./estilo/header.css");
-@import url("./estilo/sessao.css");
-
+ @import url("https://fonts.googleapis.com/css2?family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&family=Krona+One&display=swap");
+ @import url("./estilo/header.css");
+ @import url("./estilo/sessao.css");
+ 
 :root{
-   --cor-defundo: #C58356;
-   --cor-texto: #000;
+    --cor-defundo: #C58356;
+    --cor-texto: #000;
 
 }
 body{
-   background-color: var(--cor-defundo);
-   
+    background-color: var(--cor-defundo);
+    
 }
 .container--botao{
-   background-color: var(--botao-principal);
-   color:var(--cor-texto);
-   padding: 1em;
-   border-radius: 5px;
-   text-decoration: none;
+    background-color: var(--botao-principal);
+    color:var(--cor-texto);
+    padding: 1em;
+    border-radius: 5px;
+    text-decoration: none;
 }
 
 .logo1{
-   width: 20%;
+    width: 20%;
 }
 .logo2{
-   width: 20%;
+    width: 20%;
 }
 
 .cards{
-   display: flex;
-   flex-direction: column;
-   
+    display: flex;
+    flex-direction: column;
+    
 }
 
 
-
-    
 
