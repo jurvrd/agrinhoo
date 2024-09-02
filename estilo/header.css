@@ -70,7 +70,10 @@ font-family: "Open Sans", sans-serif;
         align-items: center;
         justify-content:space-between;
         height:60px ;
-        width: 35px;
+        width: 35px;}
+        .logo1{
+            width: 40%;
+
      
     }
     
