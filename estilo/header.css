@@ -65,7 +65,6 @@ font-family: "Open Sans", sans-serif;
 
 @media (min-width:1024px){
     .cabecalho{
-        background-color:aliceblue;
         display: flex;
         align-items: center;
         justify-content:space-between;
