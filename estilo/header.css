@@ -90,6 +90,12 @@ font-family: "Open Sans", sans-serif;
             align-items: center;
             flex-direction: column;
         }
+        .container--img {
+            width: 60%;
+            height: 40%;
+            font-family: "Istok Web", sans-serif;
+            font-weight: 400;
+            font-size: 50%;}
     }
     
 
