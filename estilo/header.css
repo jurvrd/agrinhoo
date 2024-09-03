@@ -41,7 +41,11 @@ font-family: "Open Sans", sans-serif;
     font-size: 20px;
     font-family: "Open Sans", sans-serif;
     background-color: antiquewhite;
+    
+}
+.container--descricao2{
     display: flex;
+
 }
 
 
