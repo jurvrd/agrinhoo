@@ -72,14 +72,7 @@ font-family: "Open Sans", sans-serif;
         display: flex;
         align-items: center;
         justify-content:space-between;}
-        
 
-        .logo1{
-            width: 20%;
-        }
-        .logo2{
-            width: 20%;
-        }
         .container {
             background-image: url("../img[]/vista-da-xicara-de-cafe-com-espaco-para-texto\ 1.png");
             height: 1000px;
@@ -96,6 +89,15 @@ font-family: "Open Sans", sans-serif;
             font-family: "Istok Web", sans-serif;
             font-weight: 400;
             font-size: 50%;}
+
+            .container--dois{
+                padding: 30px;
+                margin-bottom: 25px;
+                font-family: "Open Sans", sans-serif;
+                
+                }
+
+
     }
     
 
