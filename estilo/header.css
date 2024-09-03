@@ -41,6 +41,7 @@ font-family: "Open Sans", sans-serif;
     font-size: 20px;
     font-family: "Open Sans", sans-serif;
     background-color: antiquewhite;
+    display: flex;
 }
 
 
@@ -77,7 +78,7 @@ font-family: "Open Sans", sans-serif;
         }
         .container {
             background-image: url("../img[]/vista-da-xicara-de-cafe-com-espaco-para-texto\ 1.png");
-            height: 1000px;
+            height: 1400px;
             background-repeat: no-repeat;
             background-size: cover;  
             display: flex;
