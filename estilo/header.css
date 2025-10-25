@@ -17,6 +17,13 @@
 
 .container{
     position: relative;
+    font-size: 80px;
+    color: rgb(2, 24, 5);
+    position:absolute;
+    top: 15px;
+    font-family: "Irish Grover", system-ui;
+
+
 }
 
 
